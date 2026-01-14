@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Jetbrains\\Proiecte\\Proiect inchiriere masini\\ProiectPO\\ProiectPO\\ProiectPO.csproj",
+      "projectUniqueName": "C:\\Users\\alber\\RiderProjects\\Proiect_POO\\ProiectPO\\ProiectPO\\ProiectPO.csproj",
       "projectName": "ProiectPO",
-      "projectPath": "C:\\Jetbrains\\Proiecte\\Proiect inchiriere masini\\ProiectPO\\ProiectPO\\ProiectPO.csproj",
+      "projectPath": "C:\\Users\\alber\\RiderProjects\\Proiect_POO\\ProiectPO\\ProiectPO\\ProiectPO.csproj",
       "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
-      "outputPath": "C:\\Jetbrains\\Proiecte\\Proiect inchiriere masini\\ProiectPO\\ProiectPO\\obj\\",
+      "outputPath": "C:\\Users\\alber\\RiderProjects\\Proiect_POO\\ProiectPO\\ProiectPO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alber\\AppData\\Roaming\\NuGet\\NuGet.Config"
