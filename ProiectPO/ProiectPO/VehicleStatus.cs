@@ -1,9 +1,10 @@
-namespace ProiectPO.Domain.Enums
-{
+namespace ProiectPO;
+
     public enum VehicleStatus
     {
         Available,
         Reserved,
-        InService
+        InService,
+        Rented,
+        Unavailable
     }
-}
