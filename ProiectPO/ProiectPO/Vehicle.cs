@@ -1,16 +1,16 @@
 namespace ProiectPO;
-
-    public abstract class Vehicle
+ 
+   public abstract class Vehicle
     {
-        public int Id { get; private set; }
-        public string Model { get; private set; }
-        public string Brand { get; private set; }
-        public double PricePerHour { get; private set; }
-        public int Year { get; private set; }
-        public int Capacity { get; private set; }
-        public VehicleStatus Status { get; private set; }
+        public int Id { get; set; }
+        public string Model { get; set; }
+        public string Brand { get; set; }
+        public double PricePerHour { get; set; }
+        public int Year { get; set; }
+        public int Capacity { get; set; }
+        public VehicleStatus Status { get; set; }
 
-        protected Vehicle(int id, string model, string brand, double pricePerHour, int year, int capacity)
+        public  Vehicle(int id, string model, string brand, double pricePerHour, int year, int capacity)
         {
             Id = id;
             Model = model;

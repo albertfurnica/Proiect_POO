@@ -4,9 +4,9 @@ namespace ProiectPO;
 
 public class Car : Vehicle
 {
-    public int NumberOfDoors { get; private set; }
-    public string FuelType { get; private set; }
-    public bool HasAirConditioning { get; private set; }
+    public int NumberOfDoors { get; set; }
+    public string FuelType { get; set; }
+    public bool HasAirConditioning { get; set; }
 
     public Car(
         int id,
