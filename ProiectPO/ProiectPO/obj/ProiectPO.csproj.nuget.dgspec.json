@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Jetbrains\\Proiecte\\Proiect inchiriere masini\\ProiectPO\\ProiectPO\\ProiectPO.csproj": {}
+    "C:\\Users\\mario\\RiderProjects\\Proiect_POO\\ProiectPO\\ProiectPO\\ProiectPO.csproj": {}
   },
   "projects": {
-    "C:\\Jetbrains\\Proiecte\\Proiect inchiriere masini\\ProiectPO\\ProiectPO\\ProiectPO.csproj": {
+    "C:\\Users\\mario\\RiderProjects\\Proiect_POO\\ProiectPO\\ProiectPO\\ProiectPO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jetbrains\\Proiecte\\Proiect inchiriere masini\\ProiectPO\\ProiectPO\\ProiectPO.csproj",
+        "projectUniqueName": "C:\\Users\\mario\\RiderProjects\\Proiect_POO\\ProiectPO\\ProiectPO\\ProiectPO.csproj",
         "projectName": "ProiectPO",
-        "projectPath": "C:\\Jetbrains\\Proiecte\\Proiect inchiriere masini\\ProiectPO\\ProiectPO\\ProiectPO.csproj",
-        "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
-        "outputPath": "C:\\Jetbrains\\Proiecte\\Proiect inchiriere masini\\ProiectPO\\ProiectPO\\obj\\",
+        "projectPath": "C:\\Users\\mario\\RiderProjects\\Proiect_POO\\ProiectPO\\ProiectPO\\ProiectPO.csproj",
+        "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mario\\RiderProjects\\Proiect_POO\\ProiectPO\\ProiectPO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alber\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\alber\\.dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Users\\mario\\.dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
