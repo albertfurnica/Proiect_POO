@@ -1,7 +1,4 @@
-﻿using ProiectPO.Domain.Vehicles;
-
-namespace ProiectPO;
-
+﻿namespace ProiectPO;
 public class Reservation
 {
     public int Id { get; set; }
